@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1749274683961",
+    "username": "test@1221",
+    "password": "$2a$10$5f3Zq.amZHQdR3jblahE/uNi7E9nFVxGfJq5gIzsHMi3a0yixXHam",
+    "level": "1bac",
+    "createdAt": "2025-06-07T05:38:03.961Z"
+  },
+  {
+    "id": "1749406743333",
+    "username": "test@gmail.com",
+    "password": "$2a$10$RN6dq7H058CXM85kwJ1plO2q11TZdKX/ZNqZxjTacbc8WozrnyWei",
+    "level": "1bac",
+    "createdAt": "2025-06-08T18:19:03.333Z",
+    "lastLogin": "2025-06-18T19:18:32.937Z"
+  },
+  {
+    "id": "1750208303107",
+    "username": "test1221@gmail.com",
+    "password": "$2a$10$pleYV5YvK66kZ5XXDoDCHudCs1pgjgSzyfUhKEqbVGG5wz7N8Xg4G",
+    "level": "1bac-hum",
+    "subscriptionStatus": "Free",
+    "subjectSubscriptions": {},
+    "createdAt": "2025-06-18T00:58:23.107Z",
+    "lastLogin": "2025-06-18T00:58:26.897Z"
+  },
+  {
+    "id": "1750208331502",
+    "username": "test12221@gmail.com",
+    "password": "$2a$10$mTvtm2zvvQfEs8g/O3twkuW3CSjd9Dxo3flInNybAAao20jq5mque",
+    "level": "2bac-math",
+    "subscriptionStatus": "Free",
+    "subjectSubscriptions": {},
+    "createdAt": "2025-06-18T00:58:51.502Z",
+    "lastLogin": "2025-06-18T19:19:57.779Z"
+  },
+  {
+    "id": "1750208434003",
+    "username": "test12222221@gmail.com",
+    "password": "$2a$10$MBdM2PdqCwTLmHjR7LMYv.5bhapSl7mzK3B56aCpBlXlFS.thBVQu",
+    "level": "2bac-math",
+    "subscriptionStatus": "Free",
+    "subjectSubscriptions": {},
+    "createdAt": "2025-06-18T01:00:34.003Z",
+    "lastLogin": "2025-06-26T06:43:51.229Z"
+  },
+  {
+    "id": "1750208719730",
+    "username": "test12222222221@gmail.com",
+    "password": "$2a$10$tXN/V7ND3y0eCbXwVyRFwe2buq1xnEUst2jbl2x9TZc72lnLKTRtO",
+    "level": "2bac-math",
+    "subscriptionStatus": "Free",
+    "subjectSubscriptions": {},
+    "createdAt": "2025-06-18T01:05:19.730Z",
+    "lastLogin": "2025-06-18T01:05:24.726Z"
+  },
+  {
+    "id": "1750273837190",
+    "username": "test1221111111@gmail.com",
+    "password": "$2a$10$0ZoSGHv0ZNNykZFxk47hju2WOvz.ut3KIc4mtrzbt63I7vWeC07Qi",
+    "level": "2bac-math",
+    "subscriptionStatus": "Free",
+    "subjectSubscriptions": {},
+    "createdAt": "2025-06-18T19:10:37.190Z",
+    "lastLogin": "2025-06-18T19:16:19.706Z"
+  },
+  {
+    "id": "1750918771574",
+    "username": "test122222@gmail.com",
+    "password": "$2a$10$pVDTr7rWZ1.zDoyIDzekke/tuiyac0yfuZoWZwjip0IUHGPyyx9si",
+    "level": "2bac-math",
+    "subscriptionStatus": "Free",
+    "subjectSubscriptions": {},
+    "createdAt": "2025-06-26T06:19:31.574Z",
+    "lastLogin": "2025-06-26T06:19:35.353Z"
+  }
+]
